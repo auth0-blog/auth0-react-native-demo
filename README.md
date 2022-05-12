@@ -5,8 +5,8 @@
 
 This project is the completed app for the following [Auth0 Developer Blog](https://auth0.com/blog/developers/) articles:
 
-* [_Get Started with Auth0 Authentication in React Native Android Apps_](get-started-auth0-authentication-react-native-android)
-* [_Get Started with Auth0 Authentication in React Native iOS Apps_](get-started-auth0-authentication-react-native-ios)
+* [_Get Started with Auth0 Authentication in React Native Android Apps_](https://auth0.com/blog/get-started-auth0-authentication-react-native-android)
+* [_Get Started with Auth0 Authentication in React Native iOS Apps_](https://auth0.com/blog/get-started-auth0-authentication-react-native-ios)
 
 These articles walk the reader through the process of adding [Auth0](https://auth0.com/) authentication to Android and iOS apps build using [React Native](https://reactnative.dev/).
 
@@ -55,7 +55,9 @@ To build for iOS, you’ll also need the following:
   data-amp-addparams="anonId=CLIENT_ID(cid-scope-cookie-fallback-name)">
   sign up for a free one</a>.
 2. Clone the repo: `git clone https://github.com/auth0-blog/auth0-react-native-demo.git`
-3. Follow the steps in the _Integrate Your App with Auth0_ section of the article.
+3. Follow the steps in the _Integrate Your App with Auth0_ section of the article:
+	- [Android version](https://auth0.com/blog/get-started-auth0-authentication-react-native-android#integrate_your_app_with_auth0)
+	- [iOS version](https://auth0.com/blog/get-started-auth0-authentication-react-native-ios#integrate_your_app_with_auth0)
 
 
 ## Additional Reading
